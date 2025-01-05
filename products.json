@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "price": 49.99,
+        "category": "Electronics",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "name": "Smartphone Case",
+        "price": 15.99,
+        "category": "Accessories",
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "name": "Yoga Mat",
+        "price": 20.00,
+        "category": "Fitness",
+        "stock": 50
+    }
+]
